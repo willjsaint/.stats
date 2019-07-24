@@ -77,7 +77,7 @@ bot.on("message", function(message) {
             ],
             footer: {
               icon_url: bot.user.avatarURL,
-              text: "Developed by disco with help from franchise"
+              text: "https://play.esea.net/users/1289631"
             }
           }
             });
